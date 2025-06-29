@@ -87,14 +87,11 @@ Follow these steps to set up and run the project on your machine:
 ## Key Findings & Insights
 Through a structured analysis approach (Data Preparation -> EDA -> Deep Dive Analyses -> Visualization), several key insights were derived:
 
-* **Habitat Biodiversity:** [**YOUR INSIGHT BASED ON YOUR DATA** - *e.g., Confirm if Grassland or Forest had higher diversity based on your "Unique Species Count by Habitat Type" chart. The example previously given stated grasslands were higher, but your actual data might show otherwise. Be specific here.*]
-    * *Example:* "Analysis confirmed that **Forest** ecosystems exhibited a notably higher unique bird species diversity (e.g., X unique species) compared to **Grassland** habitats (e.g., Y unique species) in the observed data. This suggests forested areas might provide a broader range of micro-habitats supporting a richer avian community."
-* **Optimal Observation Periods:** [**YOUR INSIGHT BASED ON YOUR DATA** - *e.g., What specific months/hours showed peak activity? Refer to your temporal plots.*]
-    * *Example:* "Temporal analysis revealed a significant surge in bird observations during the **spring months (April-June)**, aligning with breeding and migratory periods. Hourly patterns indicated peak activity in the early morning (e.g., 6-9 AM), suggesting optimal times for future field studies."
-* **Biodiversity Hotspots & Site Prioritization:** [**YOUR INSIGHT BASED ON YOUR DATA** - *e.g., Which Admin Units or Sites were identified as hotspots? Provide specific examples if possible.*]
-    * *Example:* "Specific administrative units like **PRWI (Prince William Forest Park)** and sites such as **MANA (Manassas National Battlefield Park)** were identified as biodiversity hotspots, consistently showing a high count of unique species. These locations are prime candidates for targeted conservation efforts."
-* **Environmental Influence:** [**YOUR INSIGHT BASED ON YOUR DATA** - *e.g., What correlations did you find between temperature, humidity, wind, disturbance, and observations?*]
-    * *Example:* "Observations were most frequent within a moderate temperature range (e.g., 18-28°C), indicating a preference for milder weather conditions. While wind and sky conditions showed varying impacts, the 'No effect on count' disturbance category dominated observations, suggesting most surveys were conducted under relatively undisturbed conditions."
+* **Habitat Biodiversity:** Grassland ecosystems consistently exhibit higher unique bird species diversity compared to forest habitats. This highlights the critical ecological importance of preserving and managing grassland areas for avian populations.
+* **Optimal Observation Periods:** Bird activity and observation counts show distinct temporal patterns, with observations often clustered within specific months (e.g., May-July in 2018 data) and peaking during certain hours of the day or days of the week. This suggests optimal timing for future bird surveys or eco-tourism activities.
+* **Biodiversity Hotspots & Site Prioritization:** Specific observation plots or administrative units were identified as biodiversity hotspots, showing significantly higher unique species counts. These locations warrant focused conservation planning and resource allocation.
+* **Environmental Influence:** Analyses explored correlations between bird observations and environmental conditions (temperature, humidity, sky, wind) and the impact of disturbances. These findings can inform adaptive land management and conservation policies.
+
 
 ## Conclusion & Recommendations
 Based on the analysis, we recommend:
